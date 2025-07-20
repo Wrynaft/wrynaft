@@ -1,5 +1,14 @@
-## Hi there 👋
+## 👋 Who Am I?
 
+Hello! I am Ryan Chin, a university student in Computer Science majoring in Data Science. I am experienced and passionate about data analytics, machine learning and database management, with a side experience on programming languages like Java and Python.
+
+## 🛠️ Tools and Skills
+- Languages: Python (incl Pandas, numpy, etc.), Java (incl SpringBoot), SQL, R, TypeScript (Angular)
+- Visualization: PowerBI
+- Certifications: AWS Cloud Academy Foundations (2024)
+
+## 📫 Let's Connect
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
 <!--
 **Wrynaft/wrynaft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
