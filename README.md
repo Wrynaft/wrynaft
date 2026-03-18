@@ -2,6 +2,8 @@
 
 I am a Computer Science student majoring in **Data Science**, with a strong passion for turning raw data into actionable intelligence. I have experience in the end-to-end data lifecycle—from building full-stack applications to generate data, to engineering big data pipelines, and developing predictive Machine Learning & LLM-based systems.
 
+Check out my personal portfolio [website](https://wrynaft.github.io/)! 
+
 ### 📚 Projects
 [Explore my detailed Project Portfolio here](https://github.com/Wrynaft/Portfolio)
 
